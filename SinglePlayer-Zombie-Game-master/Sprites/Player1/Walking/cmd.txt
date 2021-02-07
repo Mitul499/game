@@ -1,0 +1,1 @@
+loadAnimation("Sprites/Player1/Walking/1.png","Sprites/Player1/Walking/2.png","Sprites/Player1/Walking/3.png","Sprites/Player1/Walking/4.png","Sprites/Player1/Walking/5.png","Sprites/Player1/Walking/6.png","Sprites/Player1/Walking/7.png","Sprites/Player1/Walking/8.png");

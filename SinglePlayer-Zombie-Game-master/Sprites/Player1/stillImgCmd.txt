@@ -1,0 +1,1 @@
+loadImage("Sprites/Player1/Still.png");

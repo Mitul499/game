@@ -1,0 +1,1 @@
+loadAnimation("Sprites/Boss/Throwing/1.png","Sprites/Boss/Throwing/2.png","Sprites/Boss/Throwing/3.png","Sprites/Boss/Throwing/4.png","Sprites/Boss/Throwing/5.png","Sprites/Boss/Throwing/6.png","Sprites/Boss/Throwing/7.png");

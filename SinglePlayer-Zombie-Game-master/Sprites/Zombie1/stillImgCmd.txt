@@ -1,0 +1,1 @@
+loadImage("Sprites/Zombie1/Still.png");

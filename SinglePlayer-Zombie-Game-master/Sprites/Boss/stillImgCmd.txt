@@ -1,0 +1,1 @@
+loadImage("Sprites/Boss/still.png");

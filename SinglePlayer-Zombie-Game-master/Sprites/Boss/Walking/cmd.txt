@@ -1,0 +1,1 @@
+loadAnimation("Sprites/Boss/Walking/1.png","Sprites/Boss/Walking/2.png","Sprites/Boss/Walking/3.png","Sprites/Boss/Walking/4.png","Sprites/Boss/Walking/5.png","Sprites/Boss/Walking/6.png","Sprites/Boss/Walking/7.png","Sprites/Boss/Walking/8.png","Sprites/Boss/Walking/9.png","Sprites/Boss/Walking/10.png","Sprites/Boss/Walking/11.png");

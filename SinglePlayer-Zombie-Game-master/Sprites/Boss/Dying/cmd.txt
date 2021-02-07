@@ -1,0 +1,1 @@
+loadAnimation("Sprites/Boss/Dying/1.png","Sprites/Boss/Dying/2S.png","Sprites/Boss/Dying/3.png","Sprites/Boss/Dying/4.png","Sprites/Boss/Dying/5.png")
